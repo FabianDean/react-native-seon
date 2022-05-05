@@ -2,11 +2,10 @@
 
 Seon SDK for React Native
 
-## Installation
+Based on the publicly available native SDKs from [SEON](https://seon.io/):
 
-```sh
-npm install react-native-seon
-```
+- [Android](https://github.com/seontechnologies/seon-android-sdk-public)
+- [iOS](https://github.com/seontechnologies/seon-ios-sdk-public)
 
 ## Usage
 
